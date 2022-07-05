@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 
-public class QuebraCodigo {
+public class Main {
     
     public static List<BigInteger> trialDivision(BigInteger n){
         // O fatores são armazenados numa lista ligada
