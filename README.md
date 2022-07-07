@@ -1,2 +1,2 @@
 # RSA-fatoracao
-Algoritmo para tentar quebrar a o RSA
+Algoritmo para tentar quebrar o RSA
